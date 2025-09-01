@@ -5,7 +5,7 @@
     "tailwindcss": "^4.1.12"
   },
   "scripts": {
-    "dev": "http-server . -c-1", 
-    "start": "http-server . -c-1"
-  }
+  "dev": "http-server . -c-1 -p 8080"
+}
+
 }
