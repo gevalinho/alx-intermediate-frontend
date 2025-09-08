@@ -1,0 +1,17 @@
+This is the most common and cross-platform approach.
+
+Ensure you have Node.js and npm installed.
+
+Open your terminal or command prompt.
+
+Run the following command to install Sass globally:
+
+npm install -g sass
+
+
+Verify the installation by checking the version:
+
+sass --version
+
+
+This method installs the Dart Sass implementation, which is the primary and actively maintained version.
